@@ -8,4 +8,4 @@ Here are some of the projects I'm fiddling with:
 <br>
 <a href="/pong">Pong (Pascal) </a>
 <br>
-<a href="/pong">Chess (Icon) </a>
+<a href="/chess">Chess (Icon) </a>
