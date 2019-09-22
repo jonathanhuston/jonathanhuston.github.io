@@ -7,3 +7,5 @@ Here are some of the projects I'm fiddling with:
 <a href="/buzzquiz">Buzzquiz (Ruby) </a>
 <br>
 <a href="/pong">Pong (Pascal) </a>
+<br>
+<a href="/pong">Chess (Icon) </a>
