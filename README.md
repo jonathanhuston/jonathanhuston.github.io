@@ -1,4 +1,4 @@
-Here are some of the projects I'm fiddling with:
+Here are some (ancient) projects I'm (still) fiddling with:
 
 <a href="/othello">Othello (Red)</a>
 <br>
