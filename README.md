@@ -1,5 +1,7 @@
 Here are some (ancient) projects I'm (still) fiddling with:
 
+<a href="/connect4">Connect4 (Clojure)</a>
+<br>
 <a href="/othello">Othello (Red)</a>
 <br>
 <a href="/tictactoe">Tic Tac Toe (Red)</a>
@@ -9,3 +11,4 @@ Here are some (ancient) projects I'm (still) fiddling with:
 <a href="/pong">Pong (Pascal)</a>
 <br>
 <a href="/chess">Chess (Icon)</a>
+
