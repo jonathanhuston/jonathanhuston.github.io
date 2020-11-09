@@ -4,7 +4,7 @@ Here are some (ancient) projects I'm (still) fiddling with:
 <br>
 <a href="/slatescript-tools">Slatescript Tools (Clojure)</a>
 <br>
-<a href="/hy-jupyter">Hy Jupyter (VSCode extension)</a>
+<a href="/hy-jupyter">Hy Jupyter (VSCode/JavaScript)</a>
 <br>
 <a href="/connect4">Connect4 (Clojure)</a>
 <br>
