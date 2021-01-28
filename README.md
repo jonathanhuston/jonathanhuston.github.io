@@ -1,4 +1,4 @@
-Here are some (ancient) projects I'm (still) fiddling with:
+Here are my recent projects:
 
 <a href="/penguinmath">Penguin Math (Elm/Python)</a>
 <br>
@@ -10,11 +10,13 @@ Here are some (ancient) projects I'm (still) fiddling with:
 <br>
 <a href="/buzzquiz">Buzzquiz (Swift)</a>
 <br>
+<a href="/tictactoe">Tic Tac Toe (Swift)</a>
+
+<br>Here are some (ancient) projects I'm (still) fiddling with:
+
 <a href="/buzzquizrb">Buzzquiz (Ruby)</a>
 <br>
 <a href="/othello">Othello (Red)</a>
-<br>
-<a href="/tictactoe">Tic Tac Toe (Swift)</a>
 <br>
 <a href="/tictactoe-red">Tic Tac Toe (Red)</a>
 <br>
