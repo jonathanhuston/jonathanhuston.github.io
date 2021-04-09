@@ -8,6 +8,8 @@ Here are my recent projects:
 <br>
 <a href="/connect4">Connect4 (Clojure)</a>
 <br>
+<a href="/diamondchess">Diamond Chess (Swift)</a>
+<br>
 <a href="/buzzquiz">Buzzquiz (Swift)</a>
 <br>
 <a href="/tictactoe">Tic Tac Toe (Swift)</a>
