@@ -6,6 +6,8 @@ Here are my recent projects:
 <br>
 <a href="/hy-jupyter">Hy Jupyter (VSCode/JavaScript)</a>
 <br>
+<a href="/hy-tools">Hy Tools (Hy)</a>
+<br>
 <a href="/connect4">Connect4 (Clojure)</a>
 <br>
 <a href="/diamondchess">Diamond Chess (Swift)</a>
