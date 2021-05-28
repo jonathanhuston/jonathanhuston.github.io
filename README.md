@@ -6,7 +6,9 @@ Here are my recent projects:
 <br>
 <a href="/hy-jupyter">Hy Jupyter (VSCode/JavaScript)</a>
 <br>
-<a href="/hy-tools">Hy Tools (Hy)</a>
+<a href="/hy-micro">Hy Micro (Hy)</a>
+<br>
+<a href="/hy-macros">Hy Macros (Hy)</a>
 <br>
 <a href="/connect4">Connect4 (Clojure)</a>
 <br>
