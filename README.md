@@ -1,4 +1,4 @@
-Here are my recent projects:
+Here are some of my recent projects:
 
 <a href="/penguinmath">Penguin Math (Elm/Python)</a>
 <br>
