@@ -15,6 +15,7 @@ Here are some of my recent projects:
 <a href="/connect4">Connect4 (Clojure)</a>
 <br><a href="/buzzquiz">Buzzquiz (Swift)</a>
 <br>
+
 Here are some (ancient) projects I'm (still) fiddling with:
 
 <a href="/othello">Othello (Red)</a>
