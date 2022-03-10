@@ -1,6 +1,7 @@
 Here are some of my recent projects:
 
-<a href="/diamondchess">Diamond Chess (Swift)</a>
+<a href="https://apps.apple.com/us/app/qirkat/id1552978807">Qirkat (Swift)</a>
+<br><a href="/diamondchess">Diamond Chess (Swift)</a>
 <br><a href="/tictactoe">Tic Tac Toe (Swift)</a>
 <br><a href="/penguinmath">Penguin Math (Elm/Python)</a>
 <br>
