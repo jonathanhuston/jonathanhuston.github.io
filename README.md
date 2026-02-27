@@ -1,5 +1,9 @@
 Here are some of my recent projects:
 
+<a href="https://github.com/jonathanhuston/claudine">Claudine (Swift)</a>
+<br><a href="https://github.com/jonathanhuston/claujure">Claujure (Clojure)</a>
+<br><a href="https://github.com/jonathanhuston/swiftpong">SwiftPong (Swift)</a>
+<br>
 <a href="https://apps.apple.com/us/app/qirkat/id1552978807">Qirkat (Swift)</a>
 <br><a href="/diamondchess">Diamond Chess (Swift)</a>
 <br><a href="/tictactoe">Tic Tac Toe (Swift)</a>
