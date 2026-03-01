@@ -1,6 +1,7 @@
 Here are some of my recent projects:
 
-<a href="/claudine">Claudine (Swift)</a>
+<a href="/Gargoyled">Gargoyled (C++)</a>
+<br><a href="/claudine">Claudine (Swift)</a>
 <br><a href="/claujure">Claujure (Clojure)</a>
 <br><a href="/swiftpong">SwiftPong (Swift)</a>
 <br>
